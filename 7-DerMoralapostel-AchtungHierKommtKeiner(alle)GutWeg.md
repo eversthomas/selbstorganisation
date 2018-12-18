@@ -1,6 +1,10 @@
 
-Wie das Individuum sich selbst organisieren kann (falls es ein Solches geben sollte)
+Was der Einzelne tun könnte ...
 
-Wie das team sich (bewusster) selbst organisieren kann
+Was das Team denken könnte ...
 
-Wie gekoppelte größere Systeme sich effektiver selbst organisieren können
+Was der Unternehmen leisten müßte ...
+
+Was den Geschäftführer kümmern sollte ...
+
+Warum Würde kein konjunktiv sein sollte
