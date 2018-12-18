@@ -1,3 +1,9 @@
+systemische Grundlagen
+
+Wo sind die Eigenschaften?
+
+Das Individuum im Team und das Team im Individuum
+
 Nach Luhmann arbeiten soziale Systeme nach eigenen Gesetzmäßigkeiten, wodurch Eingriffs- oder Steuerungsversuche grundsätzlich problematisch sind: Die Wirtschaft kann etwa von der Politik nur sehr bedingt gesteuert werden; die Moral kann die Politik nur bedingt steuern usw. Luhmann war es auch, der einmal gesagt haben soll: Ein Politiker, der denkt, er könne mit einer konkreten Entscheidung (z.B. ein Gesetz) ein konkretes Ergebnis erreichen, der muss entweder dumm oder arrogant sein.
 
 Wir sehen also, dass soziale Systeme viel mehr Komplexität enthalten, so dass lineare, auf Ursache und Wirkung basierende, top-down Hierarchien möglicherweise nicht angemessen erscheinen. Wie sich Menschen in sozialen Systemen verhalten, ist davon abhängig:
