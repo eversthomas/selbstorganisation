@@ -4,9 +4,9 @@
 ## Inhalte
 
 - Selbstorganisation - der klägliche Versuch einer Definition
-  -- Organisationsformen in einem subjektiven geschichtlichen Abriss
-  -- über die Schwierigkeit Selbstorganisation zu definieren
-  -- ist Selbstorganisation = Flow?
+  - Organisationsformen in einem subjektiven geschichtlichen Abriss
+  - über die Schwierigkeit Selbstorganisation zu definieren
+  - ist Selbstorganisation = Flow?
 2. Wir beginnen beim Individuum (falls es ein Solches geben sollte)
   1. hirnphysiologische Grundlagen
   2. wahrnehmungsphysiologische Grundlagen
